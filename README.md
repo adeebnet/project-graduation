@@ -10,14 +10,14 @@ mengenai pembelian sampai pesanan kamu yang bisa kamu tanyakan disini!
 Menampilkan beberapa pilihan pertanyaan dari bot dalam bentuk tombol.
 Pengguna cukup menekan kategori yang tersedia dan bot akan langsung memberikan jawaban.
 
-🔑Topik yang tersedia adalah:
+  🔑Topik yang tersedia adalah:
 
-- 🛒Cara melakukan pembelian
-- 📦Cek status pesanan
-- ❌Pembatalan pesanan
-- ⚠️Barang rusak
-- 🎧Hubungi dukungan teknis
-- 🚚Perubahan metode pengiriman
+  - 🛒Cara melakukan pembelian
+  - 📦Cek status pesanan
+  - ❌Pembatalan pesanan
+  - ⚠️Barang rusak
+  - 🎧Hubungi dukungan teknis
+  - 🚚Perubahan metode pengiriman
 
 *Dirancang supaya pengguna cepat menemukan solusi tanpa perlu menunggu jawaban admin kami.*
 
